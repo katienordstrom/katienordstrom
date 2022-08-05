@@ -9,4 +9,4 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have a kitty named Basil. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=katienordstrom)](https://github.com/anuraghazra/github-readme-stats)
+![Katie's GitHub stats](https://github-readme-stats.vercel.app/api?username=katienordstrom&theme=aura_icons=true)
