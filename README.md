@@ -20,7 +20,7 @@
 
 # About Me
 
-- 🌱 I’m currently learning Web Development and Design at NMIT. 
+- 🌱 I’m currently studying a diploma Web Development and Design at NMIT. 
 - 👯 I’m looking to collaborate on UI/UX Design Projects. 
 - 📫 How to reach me: Github or Twitter are the places I'm most likely to respond.
 - 😄 Pronouns: she/her. <img src="https://media0.giphy.com/media/SsxoAGy9A1PSC9WNNW/giphy.gif?cid=ecf05e47bsopo57jxvbc9kwuyf6ulb03t60na0fqsgq6yvl2&rid=giphy.gif&ct=s" width="15%" height="15%" align="right">
