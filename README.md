@@ -14,5 +14,5 @@
 ![](https://komarev.com/ghpvc/?username=katienordstrom)
 
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/content-7NoNw4pMNTvgc" width="100"/>
+  <img src="https://media0.giphy.com/media/7NoNw4pMNTvgc/giphy.gif?cid=ecf05e47fx9kitc8fp46i8kv83ra7c5da93ou6p7o1gg8d0x&rid=giphy.gif&ct=g" width="100"/>
 </div>
