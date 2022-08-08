@@ -14,7 +14,7 @@
    <a href="https://www.instagram.com/xkatiedavisx/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-</div>![logo-symbol-red](https://user-images.githubusercontent.com/99843382/183342251-406a46b8-d60c-47e3-ad24-f42ffd18c377.svg)
+</div>
 
 </div>
 
