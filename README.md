@@ -13,6 +13,11 @@
 
 ![](https://komarev.com/ghpvc/?username=katienordstrom)
 
-<div id="header" align="center">
-  <img src="https://media0.giphy.com/media/7NoNw4pMNTvgc/giphy.gif?cid=ecf05e47fx9kitc8fp46i8kv83ra7c5da93ou6p7o1gg8d0x&rid=giphy.gif&ct=g" width="100"/>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/katie-nordstrom-256b7556/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/katiie_davis">
+    <img src="https://img.shields.io/twitter/follow/katiie_davis?logoColor=%23dd8ff2&style=social" alt="Twitter Badge"/>
+  </a>
 </div>
