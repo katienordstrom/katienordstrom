@@ -1,7 +1,7 @@
-
-  <img src="https://media4.giphy.com/media/4VWtqas7s7btzqhlOQ/giphy.gif?cid=ecf05e47g6h49auwwgb73w8blvcmbyvelc31g02zxp83t9do&rid=giphy.gif&ct=s" width="15%" height="15%" align="center">
+<div align="center">
+ <img src="https://media4.giphy.com/media/4VWtqas7s7btzqhlOQ/giphy.gif?cid=ecf05e47g6h49auwwgb73w8blvcmbyvelc31g02zxp83t9do&rid=giphy.gif&ct=s" width="15%" height="15%" align="center">
   
-### Welcome to my profile! 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi!+Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=katienordstrom)
 <div id="badges">
@@ -15,16 +15,23 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
+</div>
 
-- 🌱 I’m currently learning Web Development and Design.
+# About Me
+
+- 🌱 I’m currently learning Web Development and Design at NMIT. 
 - 👯 I’m looking to collaborate on UI/UX Design Projects. 
-- 🤔 I’m looking for help with JavaScript as a beginner. 
-- 💬 Ask me about anything. 
-- 📫 How to reach me: github or twitter
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I have a kitty named Basil. 
+- 📫 How to reach me: Github or Twitter are the places I'm most likely to respond.
+- 😄 Pronouns: she/her. <img src="https://media0.giphy.com/media/SsxoAGy9A1PSC9WNNW/giphy.gif?cid=ecf05e47bsopo57jxvbc9kwuyf6ulb03t60na0fqsgq6yvl2&rid=giphy.gif&ct=s" width="15%" height="15%" align="right">
+- ⚡ Fun fact: I have a kitty named Basil.
 
-![Katie's GitHub stats](https://github-readme-stats.vercel.app/api?username=katienordstrom&theme=aura&show_icons=true) <img src="https://github-readme-stats.vercel.app/api/top-langs?username=katienordstrom&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+# My Experience
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,figma,html,jquery,ps,vscode,visualstudio,cs,wordpress&theme=light)](https://skillicons.dev)
+
+
+# Check out my stats
+
+![Katie's GitHub stats](https://github-readme-stats.vercel.app/api?username=katienordstrom&theme=aura&show_icons=true) 
 
 
 
