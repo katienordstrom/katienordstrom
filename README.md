@@ -12,3 +12,7 @@
 ![Katie's GitHub stats](https://github-readme-stats.vercel.app/api?username=katienordstrom&theme=aura_icons=true)
 
 ![](https://komarev.com/ghpvc/?username=katienordstrom)
+
+<div id="header" align="center">
+  <img src="https://giphy.com/gifs/content-7NoNw4pMNTvgc" width="100"/>
+</div>
